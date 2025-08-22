@@ -230,7 +230,8 @@ with st.sidebar:
     pages = {
         "🏠 Home": "Home",
         "✅ Service Completion": "1_Service_Completion", 
-        "👥 Staff Requirement": "2_Staff_Requirement"
+        "👥 Staff Requirement": "2_Staff_Requirement",
+        "📅 Booking Management": "3_Booking_Handle"
     }
     
     # Handle programmatic navigation
