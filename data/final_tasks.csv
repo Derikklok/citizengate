@@ -1,0 +1,20 @@
+task_id,task_name,section_id,section_name
+TASK-001,Accept and verify new passport applications,SEC-001,First-time Passport Applications
+TASK-002,"Capture applicant biometrics (photo, fingerprints)",SEC-001,First-time Passport Applications
+TASK-003,Process passport renewal requests,SEC-002,Renewals
+TASK-004,Verify and update biometric data if required,SEC-002,Renewals
+TASK-005,Process renewal requests for minors,SEC-002,Renewals
+TASK-006,Handle lost or damaged renewal documentation,SEC-002,Renewals
+TASK-007,Correct name or date of birth errors,SEC-003,Corrections & Amendments
+TASK-008,Update address or legal name change details,SEC-003,Corrections & Amendments
+TASK-009,Amend passport details for marriage or divorce,SEC-003,Corrections & Amendments
+TASK-010,Record lost/stolen passport incident reports,SEC-004,Lost/Stolen Passport Reissue
+TASK-011,Issue replacement passports after verification,SEC-004,Lost/Stolen Passport Reissue
+TASK-012,Expedite reissuance for emergency travel,SEC-004,Lost/Stolen Passport Reissue
+TASK-013,Check authenticity of submitted documents,SEC-005,Document Verification
+TASK-014,Cross-verify documents with government databases,SEC-005,Document Verification
+TASK-015,Verify supporting documents for special cases,SEC-005,Document Verification
+TASK-016,Process diplomatic or official passports,SEC-006,Special Cases
+TASK-017,Handle urgent/emergency passport requests,SEC-006,Special Cases
+TASK-018,Process citizenship confirmation requests,SEC-006,Special Cases
+TASK-019,Assist citizens with unique circumstances,SEC-006,Special Cases
